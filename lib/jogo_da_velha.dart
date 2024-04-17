@@ -14,7 +14,6 @@ class _JogoDaVelhaState extends State<JogoDaVelha> {
   String _mensagem = 'Jogador X começa!';
   bool _contraComputador = false;
   String _simboloSelecionado = 'X';
-  bool _receberNotificacoes = true;
   String _nomeJogadorX = '';
   String _nomeJogadorO = '';
 
